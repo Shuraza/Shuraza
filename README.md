@@ -3,8 +3,9 @@
 
 - Me chamo Samuel De Souza, tenho 19 anos e moro em joinville - SC. 
 - Técnico em Informática de Internet pelo Senac.
-- Engenharia de Software pela univille.
+- Cursando Engenharia de Software pela univille.
 - Desenvolvedor júnior.
+- Experiência em Front-End.
 
 <br>
 <br>
@@ -24,6 +25,7 @@
 <div><br/>
     <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="JAVA" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=java&logoColor=white" />
     <img align="center" alt="JUPYTER" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
     <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
     <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -39,6 +41,8 @@
    <img align="center" alt="FIREBASE" src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white"/>
    <img align="center" alt=OFFICE" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
    <img align="center" alt="GIT" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
+   <img align="center" alt="LINUX" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
+   <img align="center" alt="WINDOWS" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
   </div>
 
 
