@@ -1,48 +1,66 @@
-### Olá, Bem-Vindo!
+<h1>Samuel de Souza</h1>
 
+<p>IT Analyst &middot; Systems Integration &middot; Python Automation &middot; SQL &middot; Software Engineering Student<br>Joinville, Brazil</p>
 
-- Me chamo Samuel De Souza, tenho 20 anos e moro em joinville - SC. 
-- Técnico em Informática de Internet pelo Senac.
-- Cursando Engenharia de Software pela univille.
-- Desenvolvedor júnior.
-- Experiência em Front-End.
+<a href="https://www.linkedin.com/in/samuel-de-souza-5607a8233/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:Samueldesouza200512@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<img src="https://img.shields.io/badge/Azure_Fundamentals-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Certified: Azure Fundamentals">
 
-<br>
-<br>
+---
 
+### About
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuraza&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuraza&layout=compact&theme=synthwave)](https://github.com/Shuraza/github-readme-stats)
+I'm 21, a Software Engineering student at Univille with a technical degree in Internet Computing from Senac. I work in IT, focused on process automation, enterprise system integration and corporate infrastructure, and I'm building my path toward software development.
 
+### Experience
 
+**IT Support Analyst** &middot; YUDO SA &middot; *Oct 2025 – present*
 
-## Contato:
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-de-souza-5607a8233/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samucaelo/)
+- Responsible for the company's IT area: infrastructure, Windows and Linux servers, and support for corporate systems
+- Maintenance of the TOTVS Protheus ERP
+- Integration project between Protheus, used in the Brazilian operation, and the company's international corporate system, including data standardization
+- Python automations for integration and data processing between systems, backed by SQL Server
+- Regular meetings in English with the company's international teams on integration projects
 
-## Tecnologias que eu uso no dia a dia:
+**Front-end Developer** &middot; Pichau &middot; *Dec 2023 – Jan 2025*
 
-<div><br/>
-    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img align="center" alt="JUPYTER" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-    <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-    <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="NODE" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img align="center" alt="REACTJS" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  </div>
- 
- <br>
+### Education and certifications
 
-  <div>
-   <img align="center" alt="FIREBASE" src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white"/>
-   <img align="center" alt=OFFICE" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-   <img align="center" alt="GIT" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
-   <img align="center" alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-   <img align="center" alt="WINDOWS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  </div>
+- **B.Sc. Software Engineering** &middot; Univille &middot; *2024 – present*
+- **Technical degree in Internet Computing** &middot; Senac Santa Catarina
+- **Microsoft Certified: Azure Fundamentals (AZ-900)** &middot; *Sep 2026*
 
+### Featured projects
 
+| Project | Description | Stack |
+|---|---|---|
+| [Chamados_DAS](https://github.com/Shuraza/Chamados_DAS) | REST API for a help desk system, built with a layered architecture | Java, Spring Boot, JPA, H2 |
+| [Projeto_Integrador](https://github.com/Shuraza/Projeto_Integrador) | Fully functional website for a local business, with product management, developed with Scrum | PHP, MySQL, JavaScript |
+| [PITopFerro](https://github.com/scarmm/PITopFerro) | Mobile app for the same business, technical course final project | JavaScript, React |
+| [ShopPlusAi](https://github.com/cyronp/ShopPlusAi-Frontend) | E-commerce front-end with AI-powered recommendations and search (team project) | Next.js, TypeScript |
+| [TAPRC-2026](https://github.com/Shuraza/TAPRC-2026) | Azure Functions with timer and HTTP triggers, plus CI/CD (team project) | Python, Azure, GitHub Actions |
+
+### Tech stack
+
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=python,js,php,java,html,css" alt="Languages"></td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nodejs,spring" alt="Frameworks"></td>
+  </tr>
+  <tr>
+    <td><strong>Data</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,firebase" alt="Data"> &nbsp; SQL Server &middot; TOTVS Protheus</td>
+  </tr>
+  <tr>
+    <td><strong>Infra and tools</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=azure,windows,linux,git,githubactions,vscode,idea" alt="Infra and tools"></td>
+  </tr>
+</table>
+
+### Languages
+
+Portuguese (native) &middot; English (advanced)
