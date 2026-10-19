@@ -48,26 +48,27 @@ text, tspan { white-space: pre; }
 <tspan x="30" y="557.1">        ...:-+**+-::=*#**#%%%##%%#*:-</tspan>
 </text>
 <text fill="#24292f" xml:space="preserve">
-<tspan x="432" y="101"><tspan class="t">samuel@souza</tspan> ────────────────────────────────────────────</tspan>
-<tspan x="432" y="121"><tspan class="k">OS</tspan>:<tspan class="d">.......................</tspan> <tspan class="v">Windows, Windows Server, Linux</tspan></tspan>
-<tspan x="432" y="141"><tspan class="k">Host</tspan>:<tspan class="d">............................................</tspan> <tspan class="v">YUDO SA</tspan></tspan>
-<tspan x="432" y="161"><tspan class="k">Kernel</tspan>:<tspan class="d">..................</tspan> <tspan class="v">Software Engineering @ Univille</tspan></tspan>
-<tspan x="432" y="181"><tspan class="k">IDE</tspan>:<tspan class="d">..............................</tspan> <tspan class="v">VS Code, IntelliJ IDEA</tspan></tspan>
-<tspan x="432" y="201"></tspan>
-<tspan x="432" y="221"><tspan class="k">Languages.Programming</tspan>: <tspan class="v">Python, SQL, JavaScript, PHP, Java</tspan></tspan>
-<tspan x="432" y="241"><tspan class="k">Languages.Computer</tspan>:<tspan class="d">................</tspan> <tspan class="v">HTML, CSS, JSON, YAML</tspan></tspan>
-<tspan x="432" y="261"><tspan class="k">Languages.Real</tspan>:<tspan class="d">......................</tspan> <tspan class="v">Portuguese, English</tspan></tspan>
-<tspan x="432" y="281"></tspan>
-<tspan x="432" y="301"><tspan class="k">Work.Focus</tspan>:<tspan class="d">...........</tspan> <tspan class="v">ERP integration, Python automation</tspan></tspan>
-<tspan x="432" y="321"><tspan class="k">Certifications</tspan>:<tspan class="d">..............</tspan> <tspan class="v">Azure Fundamentals (AZ-900)</tspan></tspan>
-<tspan x="432" y="341"></tspan>
-<tspan x="432" y="361">- Contact ───────────────────────────────────────────────</tspan>
-<tspan x="432" y="381"><tspan class="k">Email</tspan>:<tspan class="d">.....................</tspan> <tspan class="v">Samueldesouza200512@gmail.com</tspan></tspan>
-<tspan x="432" y="401"><tspan class="k">LinkedIn</tspan>:<tspan class="d">......................</tspan> <tspan class="v">samuel-de-souza-5607a8233</tspan></tspan>
-<tspan x="432" y="421"></tspan>
-<tspan x="432" y="441">- GitHub Stats ──────────────────────────────────────────</tspan>
-<tspan x="432" y="461"><tspan class="k">Repos</tspan>:<tspan class="d">.......</tspan> <tspan class="v">12 {Contributed: 6}</tspan> | <tspan class="k">Stars</tspan>:<tspan class="d">............</tspan> <tspan class="v">12</tspan></tspan>
-<tspan x="432" y="481"><tspan class="k">Commits</tspan>:<tspan class="d">.....................</tspan> <tspan class="v">412</tspan> | <tspan class="k">Followers</tspan>:<tspan class="d">........</tspan> <tspan class="v">13</tspan></tspan>
-<tspan x="432" y="501"><tspan class="k">Lines of Code on GitHub</tspan>:<tspan class="d">......</tspan> <tspan class="v">39,077</tspan> ( <tspan class="a">+48,210</tspan>, <tspan class="r">-9,133</tspan> )</tspan>
+<tspan x="432" y="91"><tspan class="t">samuel@souza</tspan> ────────────────────────────────────────────</tspan>
+<tspan x="432" y="111"><tspan class="k">OS</tspan>:<tspan class="d">.......................</tspan> <tspan class="v">Windows, Windows Server, Linux</tspan></tspan>
+<tspan x="432" y="131"><tspan class="k">Uptime</tspan>:<tspan class="d">........................</tspan> <tspan class="v">21 years, 1 month, 2 days</tspan></tspan>
+<tspan x="432" y="151"><tspan class="k">Host</tspan>:<tspan class="d">............................................</tspan> <tspan class="v">YUDO SA</tspan></tspan>
+<tspan x="432" y="171"><tspan class="k">Kernel</tspan>:<tspan class="d">..................</tspan> <tspan class="v">Software Engineering @ Univille</tspan></tspan>
+<tspan x="432" y="191"><tspan class="k">IDE</tspan>:<tspan class="d">..............................</tspan> <tspan class="v">VS Code, IntelliJ IDEA</tspan></tspan>
+<tspan x="432" y="211"></tspan>
+<tspan x="432" y="231"><tspan class="k">Languages.Programming</tspan>: <tspan class="v">Python, SQL, JavaScript, PHP, Java</tspan></tspan>
+<tspan x="432" y="251"><tspan class="k">Languages.Computer</tspan>:<tspan class="d">................</tspan> <tspan class="v">HTML, CSS, JSON, YAML</tspan></tspan>
+<tspan x="432" y="271"><tspan class="k">Languages.Real</tspan>:<tspan class="d">......................</tspan> <tspan class="v">Portuguese, English</tspan></tspan>
+<tspan x="432" y="291"></tspan>
+<tspan x="432" y="311"><tspan class="k">Work.Focus</tspan>:<tspan class="d">...........</tspan> <tspan class="v">ERP integration, Python automation</tspan></tspan>
+<tspan x="432" y="331"><tspan class="k">Certifications</tspan>:<tspan class="d">..............</tspan> <tspan class="v">Azure Fundamentals (AZ-900)</tspan></tspan>
+<tspan x="432" y="351"></tspan>
+<tspan x="432" y="371">- Contact ───────────────────────────────────────────────</tspan>
+<tspan x="432" y="391"><tspan class="k">Email</tspan>:<tspan class="d">.....................</tspan> <tspan class="v">Samueldesouza200512@gmail.com</tspan></tspan>
+<tspan x="432" y="411"><tspan class="k">LinkedIn</tspan>:<tspan class="d">......................</tspan> <tspan class="v">samuel-de-souza-5607a8233</tspan></tspan>
+<tspan x="432" y="431"></tspan>
+<tspan x="432" y="451">- GitHub Stats ──────────────────────────────────────────</tspan>
+<tspan x="432" y="471"><tspan class="k">Repos</tspan>:<tspan class="d">.......</tspan> <tspan class="v">50 {Contributed: 5}</tspan> | <tspan class="k">Stars</tspan>:<tspan class="d">............</tspan> <tspan class="v">12</tspan></tspan>
+<tspan x="432" y="491"><tspan class="k">Commits</tspan>:<tspan class="d">.....................</tspan> <tspan class="v">391</tspan> | <tspan class="k">Followers</tspan>:<tspan class="d">........</tspan> <tspan class="v">13</tspan></tspan>
+<tspan x="432" y="511"><tspan class="k">Lines of Code on GitHub</tspan>:<tspan class="d">...</tspan> <tspan class="v">190,052</tspan> ( <tspan class="a">+254,468</tspan>, <tspan class="r">-64,416</tspan> )</tspan>
 </text>
 </svg>
