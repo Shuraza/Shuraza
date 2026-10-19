@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'Courier New',monospace" width="1018px" height="590px" font-size="16px">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%; }
+.k { fill: #ffa657; }
+.v { fill: #a5d6ff; }
+.d { fill: #616e7f; }
+.t { fill: #ffa657; font-weight: bold; }
+.a { fill: #3fb950; }
+.r { fill: #f85149; }
+text, tspan { white-space: pre; }
+</style>
+<rect width="1018px" height="590px" fill="#161b22" stroke="#30363d" rx="15"/>
+<text fill="#c9d1d9" font-size="12.5px" xml:space="preserve">
+<tspan x="30" y="42.3">                  ###%#%%#*+*# +# +</tspan>
+<tspan x="30" y="57.9">               %%%%%%@@#%@%%%#%*%@%+</tspan>
+<tspan x="30" y="73.5">           =*%%%@@@%#@%@##@@@##@@@%%##%##-</tspan>
+<tspan x="30" y="89.1">         +*#%@@@@@@@%%#++#@%%***%%#%@@@@@#+*</tspan>
+<tspan x="30" y="104.7">      =-++*@@@@@####***##+=-+####%%%##%@@%**@@=</tspan>
+<tspan x="30" y="120.3">      -+*+%%%%%*#*+**#+=+*###*##**#####%%%%@@+==</tspan>
+<tspan x="30" y="135.9">      +%%+%%###*===##*=#%%####***########%#@@%=-</tspan>
+<tspan x="30" y="151.5">     =**%*+*#%*#%%%####%%%#####*######*####%@@%=-</tspan>
+<tspan x="30" y="167.1">    =-**++++%@@@@@@@@@%#+%%%%##############%%@@##</tspan>
+<tspan x="30" y="182.7">   :=#%@%##%%**%#*#%%*==*%%@%%%%%%%%#####%%%%@@@-</tspan>
+<tspan x="30" y="198.3">    =*#@@@#=      +--=++***#%%%%%%##%%%%%%#%@@@%+</tspan>
+<tspan x="30" y="213.9">    -*%%@%*:=====+**=-:-=+++++++**###*++=-=*@@%=</tspan>
+<tspan x="30" y="229.5">    =%%#%#:......:-=-:-::--==+++++======----=@@-</tspan>
+<tspan x="30" y="245.1">    =%*+-........:::......:-:-===---::-===--:+%=</tspan>
+<tspan x="30" y="260.7">    =*#+..................::--===--:::::----::=</tspan>
+<tspan x="30" y="276.3">    =+*#........:=+#####**+---=====+++++==-::::</tspan>
+<tspan x="30" y="291.9">  =-:#**=:::----+*#%%%%#+***+::-+%@@@@%@@%%+-::</tspan>
+<tspan x="30" y="307.5">-*=..-+#**##@#=+***#@@%%%#+++=-+%@@@%#######*++*</tspan>
+<tspan x="30" y="323.1">=%:.-..+-:.:%-++--=%@%%@@%+.*@@@@@@@@%%%#%%#%@##%</tspan>
+<tspan x="30" y="338.7"> +:**#-.....#....:=#%%%%%#-:%*::+@@@@%%####%#%-==</tspan>
+<tspan x="30" y="354.3"> =.###:.....*-...:=***+=:.:#*...-@##%#*++#%#=+.#:</tspan>
+<tspan x="30" y="369.9">  ..:-+.....-#=:.::::.:::=#+....:%%+-=++*+=--.+-</tspan>
+<tspan x="30" y="385.5">   ...:.......:-=+++++*=--+.....:=%%%#*++=++===</tspan>
+<tspan x="30" y="401.1">    :..-..........:=*##*:......:--+%%#+=---:-</tspan>
+<tspan x="30" y="416.7">        :.......:-+##%#*-:-==::#%%%%#+===:::</tspan>
+<tspan x="30" y="432.3">        +......-+####*-::===++=#%%%*+++==-:</tspan>
+<tspan x="30" y="447.9">         ......*##*+-......:#%%%##*+++*+=-:</tspan>
+<tspan x="30" y="463.5">         =.....-=-=#*+:.::-=#%++++++*+++=-</tspan>
+<tspan x="30" y="479.1">          ......-+###*--=+*#%%%%%%###++=-=</tspan>
+<tspan x="30" y="494.7">          ...:::-*#*::::--=*##**##***+=-</tspan>
+<tspan x="30" y="510.3">         =...:----=--:-=*##%%%%#****+=-</tspan>
+<tspan x="30" y="525.9">         ....:--=+=:.......:=++=++*+=</tspan>
+<tspan x="30" y="541.5">        -...:-++==**=-...:-+*++*###:</tspan>
+<tspan x="30" y="557.1">        ...:-+**+-::=*#**#%%%##%%#*:-</tspan>
+</text>
+<text fill="#c9d1d9" xml:space="preserve">
+<tspan x="432" y="101"><tspan class="t">samuel@souza</tspan> ────────────────────────────────────────────</tspan>
+<tspan x="432" y="121"><tspan class="k">OS</tspan>:<tspan class="d">.......................</tspan> <tspan class="v">Windows, Windows Server, Linux</tspan></tspan>
+<tspan x="432" y="141"><tspan class="k">Host</tspan>:<tspan class="d">............................................</tspan> <tspan class="v">YUDO SA</tspan></tspan>
+<tspan x="432" y="161"><tspan class="k">Kernel</tspan>:<tspan class="d">..................</tspan> <tspan class="v">Software Engineering @ Univille</tspan></tspan>
+<tspan x="432" y="181"><tspan class="k">IDE</tspan>:<tspan class="d">..............................</tspan> <tspan class="v">VS Code, IntelliJ IDEA</tspan></tspan>
+<tspan x="432" y="201"></tspan>
+<tspan x="432" y="221"><tspan class="k">Languages.Programming</tspan>: <tspan class="v">Python, SQL, JavaScript, PHP, Java</tspan></tspan>
+<tspan x="432" y="241"><tspan class="k">Languages.Computer</tspan>:<tspan class="d">................</tspan> <tspan class="v">HTML, CSS, JSON, YAML</tspan></tspan>
+<tspan x="432" y="261"><tspan class="k">Languages.Real</tspan>:<tspan class="d">......................</tspan> <tspan class="v">Portuguese, English</tspan></tspan>
+<tspan x="432" y="281"></tspan>
+<tspan x="432" y="301"><tspan class="k">Work.Focus</tspan>:<tspan class="d">...........</tspan> <tspan class="v">ERP integration, Python automation</tspan></tspan>
+<tspan x="432" y="321"><tspan class="k">Certifications</tspan>:<tspan class="d">..............</tspan> <tspan class="v">Azure Fundamentals (AZ-900)</tspan></tspan>
+<tspan x="432" y="341"></tspan>
+<tspan x="432" y="361">- Contact ───────────────────────────────────────────────</tspan>
+<tspan x="432" y="381"><tspan class="k">Email</tspan>:<tspan class="d">.....................</tspan> <tspan class="v">Samueldesouza200512@gmail.com</tspan></tspan>
+<tspan x="432" y="401"><tspan class="k">LinkedIn</tspan>:<tspan class="d">......................</tspan> <tspan class="v">samuel-de-souza-5607a8233</tspan></tspan>
+<tspan x="432" y="421"></tspan>
+<tspan x="432" y="441">- GitHub Stats ──────────────────────────────────────────</tspan>
+<tspan x="432" y="461"><tspan class="k">Repos</tspan>:<tspan class="d">.......</tspan> <tspan class="v">12 {Contributed: 6}</tspan> | <tspan class="k">Stars</tspan>:<tspan class="d">............</tspan> <tspan class="v">12</tspan></tspan>
+<tspan x="432" y="481"><tspan class="k">Commits</tspan>:<tspan class="d">.....................</tspan> <tspan class="v">412</tspan> | <tspan class="k">Followers</tspan>:<tspan class="d">........</tspan> <tspan class="v">13</tspan></tspan>
+<tspan x="432" y="501"><tspan class="k">Lines of Code on GitHub</tspan>:<tspan class="d">......</tspan> <tspan class="v">39,077</tspan> ( <tspan class="a">+48,210</tspan>, <tspan class="r">-9,133</tspan> )</tspan>
+</text>
+</svg>
