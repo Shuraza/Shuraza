@@ -17,6 +17,7 @@
 <!-- guestbook:start -->
 | visitor | message | date |
 |---|---|---|
+| <a href="https://github.com/CaioSouza07"><img src="https://github.com/CaioSouza07.png?size=40" width="20"> @CaioSouza07</a> | <i>passed by and left a star</i> | 2026-10-20 |
 | <a href="https://github.com/CaioSouza07"><img src="https://github.com/CaioSouza07.png?size=40" width="20"> @CaioSouza07</a> | No hablo macaco | 2026-10-20 |
 | <a href="https://github.com/Shuraza"><img src="https://github.com/Shuraza.png?size=40" width="20"> @Shuraza</a> | <i>passed by and left a star</i> | 2026-10-20 |
 <!-- guestbook:end -->
