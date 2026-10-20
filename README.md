@@ -17,4 +17,5 @@
 <!-- guestbook:start -->
 | visitor | message | date |
 |---|---|---|
+| <a href="https://github.com/Shuraza"><img src="https://github.com/Shuraza.png?size=40" width="20"> @Shuraza</a> | <i>passed by and left a star</i> | 2026-10-20 |
 <!-- guestbook:end -->
