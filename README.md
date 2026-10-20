@@ -9,5 +9,5 @@
   <a href="https://github.com/Shuraza/Chamados_DAS">Chamados_DAS</a> &nbsp;·&nbsp;
   <a href="https://github.com/Shuraza/Projeto_Integrador">Projeto_Integrador</a>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Shuraza&label=profile%20views&color=ffa657&style=flat-square" alt="Profile views">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shuraza.Shuraza&left_text=profile%20views&left_color=%23555&right_color=%23ffa657" alt="Profile views">
 </p>
