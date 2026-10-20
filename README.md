@@ -13,50 +13,42 @@
 <div align="center">
 <table align="center">
   <tr>
-    <td width="28"><a href="https://github.com/CaioSouza07"><img src="https://avatars.githubusercontent.com/CaioSouza07?s=48" width="24" height="24"></a></td>
-    <td><a href="https://github.com/CaioSouza07"><b>@CaioSouza07</b></a></td>
+    <td nowrap><a href="https://github.com/CaioSouza07"><img src="https://github.com/CaioSouza07.png?size=64" width="28" height="28" align="absmiddle">&nbsp;&nbsp;<b>@CaioSouza07</b></a></td>
     <td>testes</td>
     <td><sub>20/10&nbsp;11:27</sub></td>
   </tr>
   <tr>
-    <td width="28"><a href="https://github.com/CaioSouza07"><img src="https://avatars.githubusercontent.com/CaioSouza07?s=48" width="24" height="24"></a></td>
-    <td><a href="https://github.com/CaioSouza07"><b>@CaioSouza07</b></a></td>
+    <td nowrap><a href="https://github.com/CaioSouza07"><img src="https://github.com/CaioSouza07.png?size=64" width="28" height="28" align="absmiddle">&nbsp;&nbsp;<b>@CaioSouza07</b></a></td>
     <td>sou viado eita&#33;&#33;</td>
     <td><sub>20/10&nbsp;11:25</sub></td>
   </tr>
   <tr>
-    <td width="28"><a href="https://github.com/M0ntti"><img src="https://avatars.githubusercontent.com/M0ntti?s=48" width="24" height="24"></a></td>
-    <td><a href="https://github.com/M0ntti"><b>@M0ntti</b></a></td>
+    <td nowrap><a href="https://github.com/M0ntti"><img src="https://github.com/M0ntti.png?size=64" width="28" height="28" align="absmiddle">&nbsp;&nbsp;<b>@M0ntti</b></a></td>
     <td>passed by and left a star</td>
     <td><sub>20/10&nbsp;09:07</sub></td>
   </tr>
   <tr>
-    <td width="28"><a href="https://github.com/LelouchC21440"><img src="https://avatars.githubusercontent.com/LelouchC21440?s=48" width="24" height="24"></a></td>
-    <td><a href="https://github.com/LelouchC21440"><b>@LelouchC21440</b></a></td>
+    <td nowrap><a href="https://github.com/LelouchC21440"><img src="https://github.com/LelouchC21440.png?size=64" width="28" height="28" align="absmiddle">&nbsp;&nbsp;<b>@LelouchC21440</b></a></td>
     <td>eu não gosto de assinar registros</td>
     <td><sub>20/10&nbsp;09:05</sub></td>
   </tr>
   <tr>
-    <td width="28"><a href="https://github.com/CaioSouza07"><img src="https://avatars.githubusercontent.com/CaioSouza07?s=48" width="24" height="24"></a></td>
-    <td><a href="https://github.com/CaioSouza07"><b>@CaioSouza07</b></a></td>
+    <td nowrap><a href="https://github.com/CaioSouza07"><img src="https://github.com/CaioSouza07.png?size=64" width="28" height="28" align="absmiddle">&nbsp;&nbsp;<b>@CaioSouza07</b></a></td>
     <td><i>passed by and left a star</i></td>
     <td><sub>20/10&nbsp;08:28</sub></td>
   </tr>
   <tr>
-    <td width="28"><a href="https://github.com/CaioSouza07"><img src="https://avatars.githubusercontent.com/CaioSouza07?s=48" width="24" height="24"></a></td>
-    <td><a href="https://github.com/CaioSouza07"><b>@CaioSouza07</b></a></td>
+    <td nowrap><a href="https://github.com/CaioSouza07"><img src="https://github.com/CaioSouza07.png?size=64" width="28" height="28" align="absmiddle">&nbsp;&nbsp;<b>@CaioSouza07</b></a></td>
     <td>No hablo macaco</td>
     <td><sub>20/10&nbsp;08:28</sub></td>
   </tr>
   <tr>
-    <td width="28"><a href="https://github.com/Shuraza"><img src="https://avatars.githubusercontent.com/Shuraza?s=48" width="24" height="24"></a></td>
-    <td><a href="https://github.com/Shuraza"><b>@Shuraza</b></a></td>
+    <td nowrap><a href="https://github.com/Shuraza"><img src="https://github.com/Shuraza.png?size=64" width="28" height="28" align="absmiddle">&nbsp;&nbsp;<b>@Shuraza</b></a></td>
     <td><i>passed by and left a star</i></td>
     <td><sub>20/10&nbsp;08:19</sub></td>
   </tr>
   <tr>
-    <td width="28"><a href="https://github.com/CaioSouza07"><img src="https://avatars.githubusercontent.com/CaioSouza07?s=48" width="24" height="24"></a></td>
-    <td><a href="https://github.com/CaioSouza07"><b>@CaioSouza07</b></a></td>
+    <td nowrap><a href="https://github.com/CaioSouza07"><img src="https://github.com/CaioSouza07.png?size=64" width="28" height="28" align="absmiddle">&nbsp;&nbsp;<b>@CaioSouza07</b></a></td>
     <td>Algo aí kkkkkj</td>
     <td><sub>20/10&nbsp;08:17</sub></td>
   </tr>

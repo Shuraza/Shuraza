@@ -57,14 +57,13 @@ def render(entries):
         msg = display(e["message"]) if e["message"] else "<i>passed by and left a star</i>"
         rows.append(
             "  <tr>\n"
-            f'    <td width="28"><a href="https://github.com/{user}"><img src="https://avatars.githubusercontent.com/{user}?s=48" width="24" height="24"></a></td>\n'
-            f'    <td><a href="https://github.com/{user}"><b>@{user}</b></a></td>\n'
+            f'    <td nowrap><a href="https://github.com/{user}"><img src="https://github.com/{user}.png?size=64" width="28" height="28" align="absmiddle">&nbsp;&nbsp;<b>@{user}</b></a></td>\n'
             f"    <td>{msg}</td>\n"
             f"    <td><sub>{short_date(e['date'])}</sub></td>\n"
             "  </tr>"
         )
     if not rows:
-        rows.append('  <tr><td colspan="4"><i>no signatures yet, be the first</i></td></tr>')
+        rows.append('  <tr><td colspan="3"><i>no signatures yet, be the first</i></td></tr>')
     return '\n<div align="center">\n<table align="center">\n' + "\n".join(rows) + "\n</table>\n</div>\n"
 
 
