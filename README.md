@@ -4,20 +4,47 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/samuel-de-souza-5607a8233/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:Samueldesouza200512@gmail.com">Email</a> &nbsp;
-  <br><br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shuraza.Shuraza&left_text=profile%20views&left_color=%23555&right_color=%23ffa657" alt="Profile views">
+  <a href="https://www.linkedin.com/in/samuel-de-souza-5607a8233/"><img src="./assets/btn_linkedin.svg" alt="LinkedIn" height="38"></a>&nbsp;
+  <a href="mailto:Samueldesouza200512@gmail.com"><img src="./assets/btn_email.svg" alt="Email" height="38"></a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shuraza.Shuraza&left_text=profile%20views&left_color=%23161b22&right_color=%23ffa657" alt="Profile views">
 </p>
 
 <h3 align="center">guestbook</h3>
 
-<p align="center">Passing by? <a href="https://github.com/Shuraza/Shuraza/issues/new?title=guestbook&body=%3C%21--%20Write%20your%20message%20below%20%28max%20140%20characters%29%2C%20then%20click%20Create.%20--%3E%0A%0A">Sign the guestbook</a> and leave a message.</p>
+<p align="center">
+  <a href="https://github.com/Shuraza/Shuraza/issues/new?title=guestbook&body=%3C%21--%20Write%20your%20message%20below%20%28max%20140%20characters%29%2C%20then%20click%20Create.%20--%3E%0A%0A"><img src="./assets/btn_guestbook.svg" alt="Sign the guestbook" height="38"></a>
+</p>
 
 <!-- guestbook:start -->
-| visitor | message | date |
-|---|---|---|
-| <a href="https://github.com/CaioSouza07"><img src="https://github.com/CaioSouza07.png?size=40" width="20"> @CaioSouza07</a> | <i>passed by and left a star</i> | 2026-10-20 |
-| <a href="https://github.com/CaioSouza07"><img src="https://github.com/CaioSouza07.png?size=40" width="20"> @CaioSouza07</a> | No hablo macaco | 2026-10-20 |
-| <a href="https://github.com/Shuraza"><img src="https://github.com/Shuraza.png?size=40" width="20"> @Shuraza</a> | <i>passed by and left a star</i> | 2026-10-20 |
+<div align="center">
+<table align="center">
+  <tr>
+    <td><a href="https://github.com/CaioSouza07"><img src="https://github.com/CaioSouza07.png?size=40" width="20" height="20"></a></td>
+    <td><a href="https://github.com/CaioSouza07"><b>@CaioSouza07</b></a></td>
+    <td><i>passed by and left a star</i></td>
+    <td><sub>2026-10-20</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CaioSouza07"><img src="https://github.com/CaioSouza07.png?size=40" width="20" height="20"></a></td>
+    <td><a href="https://github.com/CaioSouza07"><b>@CaioSouza07</b></a></td>
+    <td>No hablo macaco</td>
+    <td><sub>2026-10-20</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Shuraza"><img src="https://github.com/Shuraza.png?size=40" width="20" height="20"></a></td>
+    <td><a href="https://github.com/Shuraza"><b>@Shuraza</b></a></td>
+    <td><i>passed by and left a star</i></td>
+    <td><sub>2026-10-20</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CaioSouza07"><img src="https://github.com/CaioSouza07.png?size=40" width="20" height="20"></a></td>
+    <td><a href="https://github.com/CaioSouza07"><b>@CaioSouza07</b></a></td>
+    <td>Algo aí kkkkkj</td>
+    <td><sub>2026-10-20</sub></td>
+  </tr>
+</table>
+</div>
 <!-- guestbook:end -->

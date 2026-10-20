@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="169" height="38" viewBox="0 0 169 38">
+<rect x="0.75" y="0.75" width="168" height="36.5" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<rect x="0.75" y="0.75" width="5" height="36.5" rx="2.5" fill="#79c0ff"/>
+<text x="20" y="24" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve"><tspan fill="#7ee787" font-weight="600">$</tspan> <tspan fill="#8b949e">open</tspan> <tspan fill="#79c0ff" font-weight="600">linkedin</tspan></text>
+</svg>
