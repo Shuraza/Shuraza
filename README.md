@@ -9,5 +9,14 @@
   <a href="https://github.com/Shuraza/Chamados_DAS">Chamados_DAS</a> &nbsp;·&nbsp;
   <a href="https://github.com/Shuraza/Projeto_Integrador">Projeto_Integrador</a>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Shuraza&label=profile%20views&color=ffa657&style=flat-square" alt="Profile views">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shuraza.Shuraza&left_text=profile%20views&left_color=%23555&right_color=%23ffa657" alt="Profile views">
 </p>
+
+<h3 align="center">guestbook</h3>
+
+<p align="center">Passing by? <a href="https://github.com/Shuraza/Shuraza/issues/new?title=guestbook&body=%3C%21--%20Write%20your%20message%20below%20%28max%20140%20characters%29%2C%20then%20click%20Create.%20--%3E%0A%0A">Sign the guestbook</a> and leave a message.</p>
+
+<!-- guestbook:start -->
+| visitor | message | date |
+|---|---|---|
+<!-- guestbook:end -->
