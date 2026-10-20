@@ -15,13 +15,13 @@
   <tr>
     <td><a href="https://github.com/M0ntti"><img src="https://github.com/M0ntti.png?size=40" width="20" height="20"></a></td>
     <td><a href="https://github.com/M0ntti"><b>@M0ntti</b></a></td>
-    <td>passed by and left a star</td>
+    <td><i>passed by and left a star<i></td>
     <td><sub>2026-10-20 · 09:07</sub></td>
   </tr>
   <tr>
     <td><a href="https://github.com/LelouchC21440"><img src="https://github.com/LelouchC21440.png?size=40" width="20" height="20"></a></td>
     <td><a href="https://github.com/LelouchC21440"><b>@LelouchC21440</b></a></td>
-    <td>se eu não gosto do lado A e do aldo B por que não posso exercer o meu direto de não optar por ninguém?</td>
+    <td>eu não gosto de assinar registros</td>
     <td><sub>2026-10-20 · 09:05</sub></td>
   </tr>
   <tr>
