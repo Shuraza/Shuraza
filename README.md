@@ -16,28 +16,29 @@
     <td><a href="https://github.com/CaioSouza07"><img src="https://github.com/CaioSouza07.png?size=40" width="20" height="20"></a></td>
     <td><a href="https://github.com/CaioSouza07"><b>@CaioSouza07</b></a></td>
     <td><i>passed by and left a star</i></td>
-    <td><sub>2026-10-20</sub></td>
+    <td><sub>2026-10-20 · 08:28</sub></td>
   </tr>
   <tr>
     <td><a href="https://github.com/CaioSouza07"><img src="https://github.com/CaioSouza07.png?size=40" width="20" height="20"></a></td>
     <td><a href="https://github.com/CaioSouza07"><b>@CaioSouza07</b></a></td>
     <td>No hablo macaco</td>
-    <td><sub>2026-10-20</sub></td>
+    <td><sub>2026-10-20 · 08:28</sub></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Shuraza"><img src="https://github.com/Shuraza.png?size=40" width="20" height="20"></a></td>
     <td><a href="https://github.com/Shuraza"><b>@Shuraza</b></a></td>
     <td><i>passed by and left a star</i></td>
-    <td><sub>2026-10-20</sub></td>
+    <td><sub>2026-10-20 · 08:19</sub></td>
   </tr>
   <tr>
     <td><a href="https://github.com/CaioSouza07"><img src="https://github.com/CaioSouza07.png?size=40" width="20" height="20"></a></td>
     <td><a href="https://github.com/CaioSouza07"><b>@CaioSouza07</b></a></td>
     <td>Algo aí kkkkkj</td>
-    <td><sub>2026-10-20</sub></td>
+    <td><sub>2026-10-20 · 08:17</sub></td>
   </tr>
 </table>
 </div>
+<!-- guestbook:end -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samuel-de-souza-5607a8233/"><img src="./assets/btn_linkedin.svg" alt="LinkedIn" height="38"></a>&nbsp;
@@ -47,4 +48,3 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Shuraza.Shuraza&left_text=profile%20views&left_color=%23161b22&right_color=%23ffa657" alt="Profile views">
 </p>
-<!-- guestbook:end -->

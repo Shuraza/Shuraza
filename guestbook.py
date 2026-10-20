@@ -1,7 +1,7 @@
 import json
 import os
 import re
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from html import escape
 
 README = "README.md"
@@ -9,6 +9,7 @@ STORE = "guestbook.json"
 START, END = "<!-- guestbook:start -->", "<!-- guestbook:end -->"
 MAX_ENTRIES = 10
 MAX_CHARS = 140
+BRT = timezone(timedelta(hours=-3))
 
 
 def clean(text):
@@ -17,6 +18,12 @@ def clean(text):
     if len(text) > MAX_CHARS:
         text = text[: MAX_CHARS - 1].rstrip() + "…"
     return escape(text)
+
+
+def signed_at(issue):
+    created = issue.get("created_at")
+    when = datetime.fromisoformat(created.replace("Z", "+00:00")) if created else datetime.now(timezone.utc)
+    return when.astimezone(BRT).strftime("%Y-%m-%d %H:%M")
 
 
 def load():
@@ -34,7 +41,7 @@ def render(entries):
             f'    <td><a href="https://github.com/{e["user"]}"><img src="https://github.com/{e["user"]}.png?size=40" width="20" height="20"></a></td>\n'
             f'    <td><a href="https://github.com/{e["user"]}"><b>@{e["user"]}</b></a></td>\n'
             f"    <td>{msg}</td>\n"
-            f"    <td><sub>{e['date']}</sub></td>\n"
+            f"    <td><sub>{e['date'].replace(' ', ' · ')}</sub></td>\n"
             "  </tr>"
         )
     if not rows:
@@ -54,7 +61,7 @@ def main():
         "issue": issue["number"],
         "user": issue["user"]["login"],
         "message": message,
-        "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+        "date": signed_at(issue),
     })
     entries = entries[:MAX_ENTRIES]
     json.dump(entries, open(STORE, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
