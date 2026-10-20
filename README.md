@@ -13,6 +13,12 @@
 <div align="center">
 <table align="center">
   <tr>
+    <td><a href="https://github.com/LelouchC21440"><img src="https://github.com/LelouchC21440.png?size=40" width="20" height="20"></a></td>
+    <td><a href="https://github.com/LelouchC21440"><b>@LelouchC21440</b></a></td>
+    <td>se eu não gosto do lado A e do aldo B por que não posso exercer o meu direto de não optar por ninguém?</td>
+    <td><sub>2026-10-20 · 09:05</sub></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/CaioSouza07"><img src="https://github.com/CaioSouza07.png?size=40" width="20" height="20"></a></td>
     <td><a href="https://github.com/CaioSouza07"><b>@CaioSouza07</b></a></td>
     <td><i>passed by and left a star</i></td>
