@@ -8,10 +8,6 @@
   <a href="mailto:Samueldesouza200512@gmail.com"><img src="./assets/btn_email.svg" alt="Email" height="38"></a>
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shuraza.Shuraza&left_text=profile%20views&left_color=%23161b22&right_color=%23ffa657" alt="Profile views">
-</p>
-
 <h3 align="center">guestbook</h3>
 
 <p align="center">
@@ -47,4 +43,8 @@
   </tr>
 </table>
 </div>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shuraza.Shuraza&left_text=profile%20views&left_color=%23161b22&right_color=%23ffa657" alt="Profile views">
+</p>
 <!-- guestbook:end -->
