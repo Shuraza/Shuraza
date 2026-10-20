@@ -8,7 +8,7 @@
   <a href="mailto:Samueldesouza200512@gmail.com"><img src="./assets/btn_email.svg" alt="Email" height="38"></a>
 </p>
 
-<h3 align="center">guestbook</h3>
+<h3 align="center">Guestbook</h3>
 
 <p align="center">
   <a href="https://github.com/Shuraza/Shuraza/issues/new?title=guestbook&body=%3C%21--%20Write%20your%20message%20below%20%28max%20140%20characters%29%2C%20then%20click%20Create.%20--%3E%0A%0A"><img src="./assets/btn_guestbook.svg" alt="Sign the guestbook" height="38"></a>
